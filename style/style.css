@@ -14,3 +14,7 @@
 #returnal {
     max-width: 300px;
 }
+.listing {
+    width: 250px;
+    border-radius: 20px;
+}
