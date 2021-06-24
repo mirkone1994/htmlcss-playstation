@@ -1,0 +1,16 @@
+#sony {
+    height: 10px;
+}
+.txt-color-white {
+    color: #fff;
+}
+.jumbotron {
+    background-image: url(../img/jumbo-bg.png);
+    height: 700px;
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+}
+#returnal {
+    max-width: 300px;
+}
