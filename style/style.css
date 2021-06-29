@@ -1,6 +1,12 @@
 #sony {
     height: 10px;
 }
+#lens {
+    width: 30px;
+}
+form .nav-link {
+    color: #000;
+}
 .txt-color-white {
     color: #fff;
 }
