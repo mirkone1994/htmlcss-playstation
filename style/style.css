@@ -15,12 +15,37 @@
     max-width: 300px;
 }
 .listing {
-    width: 250px;
+    width: 90%;
     border-radius: 20px;
 }
 #ps5-big {
-    width: 400px;
+    width: 100%;
 }
 .thumb {
-    width: 150px;
+    width: 100%;
+}
+.jumbotron2 {
+    background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
+    height: 700px;
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+}
+.games img {
+    width: 90%;
+}
+#psplus {
+    width: 400px;
+}
+#psnow {
+    width: 300px;
+}
+.social img {
+    width: 90%;
+}
+#pslogo {
+    width: 20%;
+}
+#sielogo {
+    width: 20%;
 }
