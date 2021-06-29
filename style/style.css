@@ -4,6 +4,9 @@
 #lens {
     width: 30px;
 }
+.bg-black {
+    background-color: #000;
+}
 form .nav-link {
     color: #000;
 }
@@ -12,13 +15,19 @@ form .nav-link {
 }
 .jumbotron {
     background-image: url(../img/jumbo-bg.png);
-    height: 700px;
+    height: 800px;
     background-repeat: no-repeat;
     background-size:cover;
     background-position: center;
 }
 #returnal {
     max-width: 300px;
+}
+.btn-orange {
+    background-color: #CD3D0F;
+}
+.bg-hgrey {
+    background-color: #1F1F1F;
 }
 .listing {
     width: 90%;
@@ -32,7 +41,7 @@ form .nav-link {
 }
 .jumbotron2 {
     background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
-    height: 700px;
+    height: 800px;
     background-repeat: no-repeat;
     background-size:cover;
     background-position: center;
@@ -40,14 +49,26 @@ form .nav-link {
 .games img {
     width: 90%;
 }
+.bg-grey {
+    background-color: #BEBCBB;
+}
+.btn-lgrey {
+    background-color: #D9DADC;
+}
 #psplus {
     width: 70%;
+}
+.bg-dblue {
+    background-color: #161C3B;
 }
 #psnow {
     width: 70%;
 }
 .social img {
     width: 90%;
+}
+.bg-lblue {
+    background-color: #00439C;
 }
 #pslogo {
     width: 20%;
